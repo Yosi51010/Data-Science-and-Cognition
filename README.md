@@ -1,2 +1,6 @@
-# Data-Science-and-Cognition
-A series of Python notebooks to explore core ideas from data science and their applications to studying cognition!
+# Data and Cognition
+I explore simple yet powerful tools to replicate seminal papers in Cognitive Science.
+
+Credits to Professor Yang Xu for his guidance and support.
+
+
