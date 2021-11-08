@@ -1,5 +1,5 @@
 # Data and Cognition
-I explore simple yet powerful tools to replicate seminal papers in Cognitive Science.
+Exploring simple yet powerful tools to replicate some seminal papers from Cognitive Science.
 
 Credits to Professor Yang Xu for his guidance and support.
 
